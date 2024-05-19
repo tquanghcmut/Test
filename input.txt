@@ -1,0 +1,14 @@
+The graph:
+0 1 1 0 0 0 0 0 0
+0 0 1 1 0 0 0 0 0
+0 0 0 1 0 1 0 0 0
+0 0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 0
+Number of vertices: 9
+Start vertex: 0
+Current Bellman-Ford Value array: [0,inf,inf,inf,inf,inf,inf,inf,inf]
+Current Bellman-Ford Previous array: [null,null,null,null,null,null,null,null,null]

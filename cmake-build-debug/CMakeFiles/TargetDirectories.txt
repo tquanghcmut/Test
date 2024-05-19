@@ -1,0 +1,4 @@
+/Users/twang/CLionProjects/DiscreteMathematics_assignments/cmake-build-debug/CMakeFiles/main.dir
+/Users/twang/CLionProjects/DiscreteMathematics_assignments/cmake-build-debug/CMakeFiles/tsp.dir
+/Users/twang/CLionProjects/DiscreteMathematics_assignments/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/twang/CLionProjects/DiscreteMathematics_assignments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
